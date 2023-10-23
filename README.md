@@ -95,12 +95,12 @@ float: none;
 ```
 ## Hasil Output
 
-![aan1](https://github.com/aanfadillah/Lab4web/assets/115763475/60191056-164c-42c6-a8e1-6e63bbd3652c)
+![aan1](https://github.com/aanfadillah/Lab4web/assets/115763475/987b3c5d-e4e2-4feb-91c6-d65e31488b94)
 
 ## Membuat Layout Sederhana
 * Kita akan membuat layout web sederhana seperti gambar berikut.
   
-![aan9](https://github.com/aanfadillah/Lab4web/assets/115763475/f65e0162-534e-484e-8086-8287a660d4fb)
+![aan9](https://github.com/aanfadillah/Lab4web/assets/115763475/5196e9b8-82cb-46f9-a648-7f3ab5542968)
 
 ## Buat folder baru dengan nama ```lab4_layout```, kemudian buatlah file baru didalamnya dengan nama ```home.html```, dan file css dengan nama ```style.css```.
 ```python
@@ -140,7 +140,7 @@ float: none;
 ```
 ## Hasil Output
 
-![aan2](https://github.com/aanfadillah/Lab4web/assets/115763475/5473c6f5-2669-4af7-ba49-bc0be513acd9)
+![aan2](https://github.com/aanfadillah/Lab4web/assets/115763475/d495bfae-5ec6-4363-ae88-8def855dbd23)
 
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```python
@@ -176,7 +176,7 @@ header h1 {
 ```
 ## Hasil Output
 
-![aan3](https://github.com/aanfadillah/Lab4web/assets/115763475/d0e030e3-9b18-4e2e-8c00-4751eedbd9f0)
+![aan3](https://github.com/aanfadillah/Lab4web/assets/115763475/d3ab1a48-bd39-44af-ab7e-917e2b6baf43)
 
 ## Membuat Navigasi
 * Kemudian selanjutnya mengatur navigasi.
@@ -201,7 +201,7 @@ nav a:hover {
 ```
 ## Hasil Output
 
-![aan4](https://github.com/aanfadillah/Lab4web/assets/115763475/4bc32cad-1afb-4802-9bf1-f37280c1fd81)
+![aan4](https://github.com/aanfadillah/Lab4web/assets/115763475/7d36fedc-519b-43b5-b53b-f1eb3a53de59)
 
 ## Membuat Hero Panel.
 * Selanjutnya membuat ```hero panel```. Tambahkan kode HTML dan CSS seperti berikut.
@@ -234,7 +234,7 @@ nav a:hover {
 ```
 ## Hasil Output
 
-![aan5](https://github.com/aanfadillah/Lab4web/assets/115763475/34496f0f-4e83-4af1-abd4-79a744876a43)
+![aan5](https://github.com/aanfadillah/Lab4web/assets/115763475/08137da5-a3bb-45e1-b40d-7cc9596485e2)
 
 ## Mengatur ```Layout Main dan Sidebar.```
 * Selanjutnya mengatur ```main content dan sidebar```, tambahkan ```CSS float```.
@@ -304,6 +304,7 @@ nav a:hover {
 ```
 ## Hasil Output
 
+![aan6](https://github.com/aanfadillah/Lab4web/assets/115763475/38611f44-d071-4169-a3a9-985c60ebead0)
 
 ## Mengatur Footer
 * Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
@@ -318,7 +319,7 @@ footer {
 ```
 ## Hasil Output
 
-![aan7](https://github.com/aanfadillah/Lab4web/assets/115763475/28f484c9-a635-4dd6-ac61-940855393402)
+![aan7](https://github.com/aanfadillah/Lab4web/assets/115763475/5f5f6f84-a851-47ce-8b5f-9b6e2c9e7874)
 
 ## Menambahkan Elemen lainnya pada ```Main Content```.
 ```python
@@ -393,7 +394,7 @@ box img {
 ```
 ## Hasil Output
 
-![aan8](https://github.com/aanfadillah/Lab4web/assets/115763475/f93d8198-ad76-4d0f-bfac-4901eb65424b)
+![aan8](https://github.com/aanfadillah/Lab4web/assets/115763475/44efe511-5aef-4d91-944b-3d2b112cf755)
 
 ## Menambahkan ```Content Artikel```.
 * Selanjutnya membuat ```content artikel```. Tambahkan HTML berikut pada ```main content```.
@@ -441,7 +442,7 @@ box img {
 ```
 ## Hasil Output
 
-![aan9](https://github.com/aanfadillah/Lab4web/assets/115763475/0908b1a2-d516-4207-bebe-ca954781ba77)
+![aan9](https://github.com/aanfadillah/Lab4web/assets/115763475/3f4dcbbd-5185-4664-955f-0ef843e98fdc)
 
 ## Pertanyaan dan Tugas
 1. Tambahkan Layout untuk ```menu About```.
@@ -626,6 +627,6 @@ button :hover{
 ```
 ## Hasil Output
 
-![aan10](https://github.com/aanfadillah/Lab4web/assets/115763475/98d43476-9781-4cd7-a781-9a4fac2bd7df)
+![aan10](https://github.com/aanfadillah/Lab4web/assets/115763475/569ab014-7ca2-4996-9cf3-80d80cea8640)
 
-![aan11](https://github.com/aanfadillah/Lab4web/assets/115763475/d0daaf63-8182-40d2-8874-7293e5f8ba60)
+![aan11](https://github.com/aanfadillah/Lab4web/assets/115763475/4dd1e62a-a81c-4fbc-911f-518c895e1db6)
